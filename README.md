@@ -23,3 +23,5 @@ Configure the ssh agent to auto add items.
         $ ./.dots osx
         $ ./.dots datastores
         $ brew update; brew install node
+
+# Configure Visual Studio Code
