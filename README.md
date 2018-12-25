@@ -16,10 +16,10 @@ Configure the ssh agent to auto add items.
 - Clone the bash folder. 
 - Clone and go to the (dev setup)[https://github.com/jeffpatzer/dev-setup] repo and run the following setup files. 
 
-    $ ./.dots bootstrap 
-    $ # syncs the dev-setup repo with the home repo (as in files live within the dev-setup repo but get copied into the home directory)
-    $ ./.dots osxprep
-    $ ./.dots brew # configures homebrew and installs most 
-    $ ./.dots osx
-    $ ./.dots datastores
-    $ brew update; brew install node
+        $ ./.dots bootstrap 
+        $ # syncs the dev-setup repo with the home repo (as in files live within the dev-setup repo but get copied into the home directory)
+        $ ./.dots osxprep
+        $ ./.dots brew # configures homebrew and installs most 
+        $ ./.dots osx
+        $ ./.dots datastores
+        $ brew update; brew install node
