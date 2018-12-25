@@ -19,7 +19,7 @@ Configure the ssh agent to auto add items.
     $ ./.dots bootstrap 
     $ # syncs the dev-setup repo with the home repo (as in files live within the dev-setup repo but get copied into the home directory)
     $ ./.dots osxprep
-    $ ./.dots brew
+    $ ./.dots brew # configures homebrew and installs most 
     $ ./.dots osx
     $ ./.dots datastores
     $ brew update; brew install node
