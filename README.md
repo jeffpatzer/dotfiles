@@ -12,8 +12,6 @@ Use (github guide)[https://help.github.com/articles/connecting-to-github-with-ss
     
 Configure the ssh agent to auto add items. 
 
-// TODO: clone the bash folder, remove sensitive information. use bash commands within dotfiles repo / dev setup repo. move sensitive info into private repos. 
-- Clone the bash folder. 
 - Clone and go to the (dev setup)[https://github.com/jeffpatzer/dev-setup] repo and run the following setup files. 
 
         $ ./.dots bootstrap 
@@ -21,7 +19,7 @@ Configure the ssh agent to auto add items.
         $ ./.dots osxprep
         $ ./.dots brew # configures homebrew and installs most 
         $ ./.dots osx
-        $ ./.dots datastores
+        $ ./.dots datastores osx web
         $ brew update; brew install node
 
 # Configure Visual Studio Code
