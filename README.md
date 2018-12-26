@@ -19,7 +19,7 @@ Configure the ssh agent to auto add items.
         $ ./.dots osxprep
         $ ./.dots brew # configures homebrew and installs most 
         $ ./.dots osx
-        $ ./.dots datastores osx web
+        $ ./.dots datastores web python
         $ brew update; brew install node
 
 # Configure Visual Studio Code
