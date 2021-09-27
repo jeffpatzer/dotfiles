@@ -5,8 +5,28 @@ Dev setup and dotfiles
 # Steps
 
 - Remap Caps lock to the escape key
-- Install homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-- Install [oh-my-zsh](https://ohmyz.sh/#install) with `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`. Use the `.zshrc` file.
+- Install homebrew
+
+  ```bash
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  ```
+
+  ```
+  brew install gh
+  brew install thefuck
+  brew install autoenv
+  brew install fzf
+  brew install zoxide
+  ```
+
+- Install [oh-my-zsh](https://ohmyz.sh/#install)
+
+  ```bash
+  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  ```
+
+  Use the `.zshrc` file.
+
 - Install the following
   - [Fonts](https://github.com/tonsky/FiraCode/wiki/Installing)
   - Brave
