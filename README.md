@@ -35,3 +35,8 @@ Dev setup and dotfiles
 ## Visual Studio
 
 - Sync via Github for settings.
+
+## Git
+
+Turn on gpg signing
+`git config --global commit.gpgsign true`
