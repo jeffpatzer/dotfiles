@@ -29,7 +29,7 @@ Dev setup and dotfiles
 
 - Install the following
   - [Fonts](https://github.com/tonsky/FiraCode/wiki/Installing)
-  - Brave
+  - Brave `brew install brave-browser`
   - Visual studio code
 
 ## Visual Studio
