@@ -27,6 +27,18 @@ Dev setup and dotfiles
 
   Use the `.zshrc` file.
 
+- Install [nvm](https://github.com/nvm-sh/nvm#install--update-script)
+
+  ```bash
+  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+  ```
+
+- Install [yarn](https://yarnpkg.com/)
+
+  ```bash
+  npm install -g yarn
+  ```
+
 - Install the following
   - [Fonts](https://github.com/tonsky/FiraCode/wiki/Installing)
   - Brave `brew install brave-browser`
