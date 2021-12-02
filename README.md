@@ -5,7 +5,7 @@ Dev setup and dotfiles
 # Steps
 
 - Remap Caps lock to the escape key
-- Install homebrew
+- Install (Homebrew)[/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"]
 
   ```bash
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
