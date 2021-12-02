@@ -50,5 +50,7 @@ Dev setup and dotfiles
 
 ## Git
 
+Create new SSH key and new GPG key.
+
 Turn on gpg signing
 `git config --global commit.gpgsign true`
